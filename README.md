@@ -1,6 +1,7 @@
 ### <img height="40" src="https://raw.githubusercontent.com/innng/innng/master/assets/kyubey.gif"/> Hi there -!
 
-Perkenalkan nama saya **Harlin Ajeng Ukirasih**.<br>
+I'm **Harlin Ajeng Ukirasih**.<br>
+I’m currently studying at Mulawarman University majoring in Informatics
 <!--
 **S0q0u/S0q0u** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -15,7 +16,8 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-Jika kamu tertarik untuk berkenalan denganku, silakan ikuti akun [Linkedin](https://www.linkedin.com/in/harlin-ajeng-ukirasih/)ku ya.
+<!--Jika kamu tertarik untuk berkenalan denganku, silakan ikuti akun [Linkedin](https://www.linkedin.com/in/harlin-ajeng-ukirasih/)ku ya.-->
+If you are interested in getting to know me, please follow my [Linkedin](https://www.linkedin.com/in/harlin-ajeng-ukirasih/) account
  
 ### Github Statistic
 <p align="left">
